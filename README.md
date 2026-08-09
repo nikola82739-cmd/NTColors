@@ -1,8 +1,8 @@
-#[🔅] NTColors
+# [🔅] NTColors
 
 NTColors is a simple, header-only C++ library that provides a convenient namespace for adding color and style to terminal output using ANSI escape codes.
 
-##[❓] Usage
+## [❓] Usage
 
 To use NTColors in your project, simply include the `colors.h` header file.
 
@@ -15,7 +15,7 @@ int main() {
 }
 ```
 
-##[👨‍💻] Example
+## [👨‍💻] Example
 
 Here is a basic example of how to use the color and style constants:
 
@@ -34,15 +34,15 @@ int main() {
 }
 ```
 
-##[🌐] Available Constants
+## [🌐] Available Constants
 
 All constants are available within the `ntcolors` namespace.
 
-###[🎳] Reset
+### [🎳] Reset
 
 -   `reset`: Resets all text attributes to the terminal's default.
 
-###[🌠] Text Styles
+### [🌠] Text Styles
 
 -   `bold`
 -   `dim`
@@ -51,7 +51,7 @@ All constants are available within the `ntcolors` namespace.
 -   `blink`
 -   `inverse`
 
-###[🌆] Foreground Colors
+### [🌆] Foreground Colors
 
 -   `fg_red`
 -   `fg_green`
@@ -62,7 +62,7 @@ All constants are available within the `ntcolors` namespace.
 -   `fg_purpur`
 -   `fg_cyan`
 
-###[🎇] Bright Foreground Colors
+### [🎇] Bright Foreground Colors
 
 -   `fg_bright_black`
 -   `fg_bright_red`
@@ -73,7 +73,7 @@ All constants are available within the `ntcolors` namespace.
 -   `fg_bright_cyan`
 -   `fg_bright_white`
 
-###[🎆] Background Colors
+### [🎆] Background Colors
 
 -   `bg_red`
 -   `bg_green`
@@ -84,7 +84,7 @@ All constants are available within the `ntcolors` namespace.
 -   `bg_purpur`
 -   `bg_cyan`
 
-###[🌅] Bright Background Colors
+### [🌅] Bright Background Colors
 
 -   `bg_bright_black`
 -   `bg_bright_red`
