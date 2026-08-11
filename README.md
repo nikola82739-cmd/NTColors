@@ -1,6 +1,6 @@
-# [🔅] NTColors
+# [🔅] Colors
 
-NTColors is a simple, header-only C++ library that provides a convenient namespace for adding color and style to terminal output using ANSI escape codes.
+Colors is a simple, header-only C++ library that provides a convenient namespace for adding color and style to terminal output using ANSI escape codes.
 
 ## [❓] Usage
 
