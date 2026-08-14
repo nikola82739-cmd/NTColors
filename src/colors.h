@@ -1,4 +1,4 @@
-namespace ntcolors {
+namespace colors {
   // Reset colors:
   const char* reset  = "\033[0m";
 
